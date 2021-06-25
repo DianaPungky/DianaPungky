@@ -20,14 +20,16 @@ class Stack:
 
 stack = Stack()
 print(stack.serialize())
+    
+    Website :
+        https://studywithpungky.blogspot.com (blog)
+        https://dianapungki.site (my profile)
+        https://edxcreative.com (wordpress)
+        https://numpangsimpan.com (projek yang pernah dibuat)
 ​
 ```
 </h3>
 
-Website :
-https://studywithpungky.blogspot.com (blog)
-https://dianapungki.site (my profile)
-https://edxcreative.com (wordpress)
-https://numpangsimpan.com (projek yang pernah dibuat)
+
 
 

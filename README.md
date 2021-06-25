@@ -12,7 +12,7 @@ from dataclasses import asdict, dataclass
 class Stack:
     languages   : tuple = ("HTML", "PHP", "JavaScript", "Java", "C++", "VB.net", "Python")
     databases   : tuple = ("Mysql")
-    framework     : tuple = ("Codeigniter", "Laravel")
+    framework   : tuple = ("Codeigniter", "Laravel")
 
     def serialize(self):
         return json.dumps(asdict(self), indent=4)
@@ -23,3 +23,11 @@ print(stack.serialize())
 ​
 ```
 </h3>
+
+Website :
+https://studywithpungky.blogspot.com (blog)
+https://dianapungki.site (my profile)
+https://edxcreative.com (wordpress)
+https://numpangsimpan.com (projek yang pernah dibuat)
+
+
